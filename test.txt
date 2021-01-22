@@ -1,2 +1,13 @@
-test
-fdafdas
+Create a repository on github/gitlab/bitbucket
+
+git init //Only one time
+git remote add origin <origin_url>
+
+//Frequent
+git add <>
+git commit -m 'message_here'
+
+//Pulling and Pushing code from/to remote
+
+git push origin master
+git pull origin master
